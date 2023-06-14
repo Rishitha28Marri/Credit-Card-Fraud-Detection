@@ -5,7 +5,7 @@ This project aims to develop a machine learning model to detect fraudulent credi
 The dataset used for this project contains credit card transactions with the following features:
 
 Time: The number of seconds elapsed between this transaction and the first transaction in the dataset.
-V1, V2, ..., V28: Anonymous features obtained by PCA transformation for confidentiality purposes.
+V1, V2, ..., V28: Anonymous features obtained for confidentiality purposes.
 Amount: The transaction amount.
 Class: The class label indicating whether the transaction is fraudulent (1) or non-fraudulent (0).
 
